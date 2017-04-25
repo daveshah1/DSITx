@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "z5p_lcd_1080p_demo_func_synth.vhd"
+
+# Do not sort compile order
+nosort

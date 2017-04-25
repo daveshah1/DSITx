@@ -1,0 +1,5 @@
+Thumbs.db
+*.bak
+*.bck
+*.kicad_pcb-bak
+gerber-*.zip

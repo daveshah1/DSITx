@@ -1,0 +1,6 @@
+verilog xil_defaultlib "../../../../z5p_lcd_1080p.srcs/sources_1/ip/dsi_pll/dsi_pll_clk_wiz.v" --include "../../../ipstatic"
+verilog xil_defaultlib "../../../../z5p_lcd_1080p.srcs/sources_1/ip/dsi_pll/dsi_pll.v" --include "../../../ipstatic"
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

@@ -1,0 +1,5 @@
+verilog xil_defaultlib "../../../../z5p_lcd_1080p.srcs/sources_1/ip/init_config_rom/sim/init_config_rom.v" 
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

@@ -1,0 +1,5 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "z5p_lcd_1080p_demo_time_impl.v" --include "../../../../z5p_lcd_1080p.srcs/sources_1/ip/video_pll" --include "../../../../z5p_lcd_1080p.srcs/sources_1/ip/dsi_pll"
+
+# Do not sort compile order
+nosort
